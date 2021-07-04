@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+easyazureml/__init__.py
+easyazureml.egg-info/PKG-INFO
+easyazureml.egg-info/SOURCES.txt
+easyazureml.egg-info/dependency_links.txt
+easyazureml.egg-info/requires.txt
+easyazureml.egg-info/top_level.txt

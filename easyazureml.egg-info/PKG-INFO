@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: easyazureml
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: https://github.com/Vivek0712/easyazureml
+Author: Vivek Raja P S
+Author-email: vivekraja98@gmail.com
+License: MIT
+Description: # easyazureml
+        Python Package to simplify the ML tasks to be done in Azure Machine Learning
+        
+Keywords: Azure,Machine Learning,ML
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown
